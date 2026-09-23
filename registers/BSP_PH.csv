@@ -1,0 +1,10 @@
+registry,jurisdiction,entity_name,reference_id,register_status,effective_date,services,website_domains,source_url
+BSP_PH,PH,Betur Inc.,,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,Direct Agent 5,,WITHDRAWN,2026-07-15,Inactive / not operational VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,GoTyme Bank Corporation,,AUTHORISED,2026-07-15,Active bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,"Maya Philippines, Inc.",,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,Moneybees Forex Corp.,,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,Philippine Digital Asset Exchange (PDAX),,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,TopJuan Technologies Corporation,,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,"Union Bank of the Philippines, Inc.",,AUTHORISED,2026-07-15,Active bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
+BSP_PH,PH,"WIBS PHP, Inc.",,AUTHORISED,2026-07-15,Active non-bank VASP,,https://www.bsp.gov.ph/SitePages/Default.aspx
