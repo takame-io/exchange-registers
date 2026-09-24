@@ -32,8 +32,8 @@ Registers whose terms do not allow republishing (UK FCA, Singapore MAS, Hong Kon
 
 | File | Rows | What it is |
 |---|---|---|
-| `exchanges.csv` | 1005 | One row per exchange × jurisdiction Takame reads: the status Takame shows (licensed, unconfirmed, flagged, self-filed, withdrawn, absent). |
-| `exchange_records.csv` | 150 | Every register record Takame links to an exchange. Company name and number only where the register's terms allow it. |
-| `changes.csv` | 1 | Changes Takame recorded in the registers, each with a permanent link. |
-| `registers/<CODE>.csv` | 939 | Records from the registers listed above. |
+| `exchanges.csv` | 1020 | One row per exchange × jurisdiction Takame reads: the status Takame shows (licensed, unconfirmed, flagged, self-filed, withdrawn, absent). |
+| `exchange_records.csv` | 152 | Every register record Takame links to an exchange. Company name and number only where the register's terms allow it. |
+| `changes.csv` | 12 | Changes Takame recorded in the registers, each with a permanent link. |
+| `registers/<CODE>.csv` | 950 | Records from the registers listed above. |
 | `register_reads.csv` | 8 | When Takame last read each register successfully. |

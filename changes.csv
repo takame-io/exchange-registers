@@ -1,2 +1,13 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmufva85200f0nhpf3xxxac64,2026-09-24,,ESMA_MICA_NCA,EU,flagged,Nextrize Invest,https://takame.io/en/changes/cmufva85200f0nhpf3xxxac64,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
+cmufva7fs00a8nhpf34byndqy,2026-09-24,2026-09-06,ESMA_MICA,EU,added,"ICONOMI EUROPE, borznoposredniška družba, d.o.o.",https://takame.io/en/changes/cmufva7fs00a8nhpf34byndqy,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fq00a7nhpfmldlg0ci,2026-09-24,2026-08-07,ESMA_MICA,EU,added,PIRAEUS BANK Société Anonyme (S.A.),https://takame.io/en/changes/cmufva7fq00a7nhpfmldlg0ci,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fo00a6nhpf417q1qfj,2026-09-24,2026-07-22,ESMA_MICA,EU,added,CAPITAL WALLET GREECE S.A.,https://takame.io/en/changes/cmufva7fo00a6nhpf417q1qfj,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fm00a5nhpfy3rpiq6y,2026-09-24,2026-07-22,ESMA_MICA,EU,added,XENIOS BLOCKCHAIN GROUP S.A.,https://takame.io/en/changes/cmufva7fm00a5nhpfy3rpiq6y,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fk00a4nhpf5uoi0aij,2026-09-24,2026-06-30,ESMA_MICA,EU,added,BCASH SOCIETE ANONYME,https://takame.io/en/changes/cmufva7fk00a4nhpf5uoi0aij,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fh00a3nhpfmnbftrqe,2026-09-24,2028-09-11,ESMA_MICA,EU,added,REGULAR FINANCE SAS,https://takame.io/en/changes/cmufva7fh00a3nhpfmnbftrqe,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fe00a2nhpf49fbns7d,2026-09-24,2026-10-12,ESMA_MICA,EU,added,Münchner Bank eG,https://takame.io/en/changes/cmufva7fe00a2nhpf49fbns7d,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fc00a1nhpfda0barp6,2026-09-24,2026-10-12,ESMA_MICA,EU,added,Raiffeisenbank im Oberland eG,https://takame.io/en/changes/cmufva7fc00a1nhpfda0barp6,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7fa00a0nhpfb7629slk,2026-09-24,2026-09-29,ESMA_MICA,EU,added,Wiesbadener Volksbank eG,https://takame.io/en/changes/cmufva7fa00a0nhpfb7629slk,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmufva7f3009znhpfj7y4f5q7,2026-09-24,2026-09-17,ESMA_MICA,EU,added,Volksbank Göppingen eG,https://takame.io/en/changes/cmufva7f3009znhpfj7y4f5q7,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmucitm0800nsvgpf7m23ix15,2026-09-22,2026-09-11,AMF_FR,FR,added,REGULAR FINANCE SAS,https://takame.io/en/changes/cmucitm0800nsvgpf7m23ix15,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
