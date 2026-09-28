@@ -20,39 +20,21 @@ coinbase,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2025-06-08,,,https:
 coinbase,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2020-11-15,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 coinbase,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2026-04-02,COINBASE CUSTODY INTERNATIONAL LIMITED,E2023-109,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 coinbase,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2026-04-02,COINBASE EUROPE LIMITED,E2023-110,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-lbank,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-06-01,LBank Exchange,令和６年６月,https://www.fsa.go.jp/policy/virtual_currency/index.html
-lbank,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
 okx,AE,VARA_AE,Dubai · VARA,AUTHORISED,confirmed,,,,https://www.vara.ae/en/licenses-and-register/public-register/
 okx,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-01-27,OKX Europe Limited,54930069NLWEIGLHXU42,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 okx,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-02-15,OKCOIN EUROPE LIMITED,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 okx,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/422854-OKX-SG-PTE-LTD
 okx,FR,AMF_FR,France · AMF,WITHDRAWN,name_match_unconfirmed,2025-07-29,OKX FRANCE TECHNOLOGY COMPANY LIMITED SAS,E2023-106,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 weex,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2026-08-19,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+lbank,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-06-01,LBank Exchange,令和６年６月,https://www.fsa.go.jp/policy/virtual_currency/index.html
+lbank,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
 toobit,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,name_match_unconfirmed,2025-12-18,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-upbit,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-03-17,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-13-Agustus-2026.aspx
-upbit,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
-upbit,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/420457-UPBIT-SINGAPORE-PTE-LTD
-mexc,EU,ESMA_MICA_NCA,EU · non-compliant list,NON_COMPLIANT,confirmed,,MEXC Global,,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
-mexc,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,MEXC Global,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
-mexc,HK,SFC_HK_ALERT,Hong Kong · SFC alert list,UNREGISTERED_WARNING,confirmed,2024-03-15,,,https://www.sfc.hk/en/alert-list/3016
-mexc,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2023-03-01,MEXC Global,令和５年３月,https://www.fsa.go.jp/policy/virtual_currency/index.html
-mexc,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
-kucoin,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,KuCoin,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
-kucoin,IN,FIU_IN_ORDER,India · FIU-IND enforcement orders,ENFORCEMENT_ORDER,confirmed,,,,https://fiuindia.gov.in/files/Compliance_Orders/orders.html
-kucoin,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
-kucoin,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-11-27,KuCoin EU Exchange GmbH,529900B4G0EGK7Z9KT45,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
-kucoin,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-11-27,KUCOIN EU EXCHANGE GMBH,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 xt,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
 bybit,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,Bybit Fintech Limited,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
 bybit,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2023-03-01,Bybit Fintech Limited,令和５年３月,https://www.fsa.go.jp/policy/virtual_currency/index.html
 bybit,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2021-05-01,Bybit Fintech Limited,令和３年５月,https://www.fsa.go.jp/policy/virtual_currency/index.html
 bybit,IN,FIU_IN_ORDER,India · FIU-IND enforcement orders,ENFORCEMENT_ORDER,confirmed,,,,https://fiuindia.gov.in/files/Compliance_Orders/orders.html
 bybit,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2025-03-08,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-gate,AE,VARA_AE,Dubai · VARA,AUTHORISED,confirmed,,,,https://www.vara.ae/en/licenses-and-register/public-register/
-gate,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-09-29,Gate Technology Limited,984500D6A0F945BB5A15,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
-gate,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-09-30,GATE TECHNOLOGY LIMITED,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-gate,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,Gate Japan株式会社,関東財務局長 第00018号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
-htx,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
 kraken,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2019-11-27,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 kraken,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-06-25,Payward Europe Solutions Limited,254900641D8KNHUZYX24,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 kraken,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-06-25,Payward Global Solutions Limited,9845003D98SCC2851458,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
@@ -62,16 +44,30 @@ kraken,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-12-09,"Pay
 kraken,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2026-08-11,"Payward Interactive, Inc.",,https://msb.fincen.gov/
 kraken,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2025-10-13,"Payward of New York, LLC",,https://msb.fincen.gov/
 kraken,FR,AMF_FR,France · AMF,WITHDRAWN,name_match_unconfirmed,2026-06-02,COIN MEESTER B.V. / KRAKEN,E2022-058,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+mexc,EU,ESMA_MICA_NCA,EU · non-compliant list,NON_COMPLIANT,confirmed,,MEXC Global,,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
+mexc,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,MEXC Global,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
+mexc,HK,SFC_HK_ALERT,Hong Kong · SFC alert list,UNREGISTERED_WARNING,confirmed,2024-03-15,,,https://www.sfc.hk/en/alert-list/3016
+mexc,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2023-03-01,MEXC Global,令和５年３月,https://www.fsa.go.jp/policy/virtual_currency/index.html
+mexc,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
+gate,AE,VARA_AE,Dubai · VARA,AUTHORISED,confirmed,,,,https://www.vara.ae/en/licenses-and-register/public-register/
+gate,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-09-29,Gate Technology Limited,984500D6A0F945BB5A15,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+gate,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-09-30,GATE TECHNOLOGY LIMITED,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+gate,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,Gate Japan株式会社,関東財務局長 第00018号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+kucoin,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,KuCoin,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
+kucoin,IN,FIU_IN_ORDER,India · FIU-IND enforcement orders,ENFORCEMENT_ORDER,confirmed,,,,https://fiuindia.gov.in/files/Compliance_Orders/orders.html
+kucoin,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
+kucoin,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-11-27,KuCoin EU Exchange GmbH,529900B4G0EGK7Z9KT45,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+kucoin,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-11-27,KUCOIN EU EXCHANGE GMBH,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+upbit,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-03-17,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-22-September-2026.aspx
+upbit,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
+upbit,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/420457-UPBIT-SINGAPORE-PTE-LTD
 whitebit,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2026-08-13,"WhiteBIT US, Inc.",,https://msb.fincen.gov/
-phemex,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-12-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-bithumb,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
+htx,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
+bitfinex,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-11-20,BFXNA INC.,,https://msb.fincen.gov/
 bitget,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2024-11-01,Bitget Limited,令和６年11月,https://www.fsa.go.jp/policy/virtual_currency/index.html
 bitget,JP,FSA_JP_WARNING,Japan · FSA warning list,UNREGISTERED_WARNING,confirmed,2023-03-01,Bitget Limited,令和５年３月,https://www.fsa.go.jp/policy/virtual_currency/index.html
 bitget,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
 bitget,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2023-03-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-bingx,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
-bingx,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2023-12-07,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-bingx,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2025-06-29,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 crypto-com,AE,VARA_AE,Dubai · VARA,AUTHORISED,confirmed,,,,https://www.vara.ae/en/licenses-and-register/public-register/
 crypto-com,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2024-09-18,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 crypto-com,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2021-02-18,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
@@ -83,10 +79,11 @@ crypto-com,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2026-04-30,
 crypto-com,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2026-04-30,Foris Inc.,,https://msb.fincen.gov/
 crypto-com,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2026-04-30,"Foris Services, Inc.",,https://msb.fincen.gov/
 crypto-com,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-02-12,FORIS DAX MT Limited,E2022-054,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-bitfinex,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-11-20,BFXNA INC.,,https://msb.fincen.gov/
-bitvavo,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-06-26,Bitvavo B.V.,724500MX2WBKDJP9HE56,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
-bitvavo,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-07-14,BITVAVO B.V.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-bitvavo,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-07-14,BITVAVO B.V.,E2023-101,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+phemex,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-12-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+bithumb,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
+bingx,MY,SC_MY_WARNING,Malaysia · SC alert list,UNREGISTERED_WARNING,confirmed,,,,https://www.sc.com.my/investor-alert-list
+bingx,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2023-12-07,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+bingx,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2025-06-29,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 digifinex,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2023-11-16,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 bitstamp,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-05-15,Bitstamp Europe S.A.,549300XIBGTJ0PLIEO72,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 bitstamp,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-05-15,BITSTAMP EUROPE S.A.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
@@ -96,16 +93,30 @@ bitstamp,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2025-07-30,Bi
 bitstamp,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-10-06,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 bitstamp,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2025-02-28,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 bitstamp,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-05-15,BITSTAMP EUROPE S.A.,E2023-064,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-coinone,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
+bitvavo,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-06-26,Bitvavo B.V.,724500MX2WBKDJP9HE56,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+bitvavo,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-07-14,BITVAVO B.V.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+bitvavo,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-07-14,BITVAVO B.V.,E2023-101,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 bequant,EU,ESMA_MICA,EU · MiCA,AUTHORISED,name_match_unconfirmed,2026-06-30,Bequant Pro Limited,213800Y834JOMU87Z285,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 bequant,FR,AMF_FR,France · AMF,AUTHORISED,name_match_unconfirmed,2026-07-01,BEQUANT PRO LIMITED,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-coins-ph,PH,BSP_PH,Philippines · BSP,AUTHORISED,confirmed,2026-07-15,Betur Inc.,,https://www.bsp.gov.ph/SitePages/Default.aspx
+coinone,KR,FIU_KR,South Korea · FIU,AUTHORISED,confirmed,2026-08-31,,,https://www.kofiu.go.kr/kor/notification/notice.do
 revolut-x,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-10-20,Revolut Digital Assets (Europe) Ltd,549300ET4IUR6RCZOL84,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 revolut-x,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-10-21,REVOLUT DIGITAL ASSETS EUROPE LTD,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 revolut-x,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/218707-REVOLUT-TECHNOLOGIES-SINGAPORE-PTE-LTD
-bitbank,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,ビットバンク株式会社,関東財務局長 第00004号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+cex-io,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2023-09-06,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cex-io,UK,FCA_UK,United Kingdom · FCA,AUTHORISED,confirmed,2026-03-11,,,https://register.fca.org.uk/s/search?predefined=CA
+cex-io,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-12-12,CEX.IO Corp.,,https://msb.fincen.gov/
+cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2025-03-12,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2022-09-09,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-10-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+coins-ph,PH,BSP_PH,Philippines · BSP,AUTHORISED,confirmed,2026-07-15,Betur Inc.,,https://www.bsp.gov.ph/SitePages/Default.aspx
+coincheck,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,コインチェック株式会社,関東財務局長 第00014号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
 deepcoin,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,name_match_unconfirmed,2026-07-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 deepcoin,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2025-07-15,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+bitbank,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,ビットバンク株式会社,関東財務局長 第00004号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+bitflyer,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2026-06-26,bitFlyer EUROPE S.A.,984500D4465EFA89EF38,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+bitflyer,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2026-06-26,BITFLYER EUROPE S.A.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+bitflyer,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,株式会社bitFlyer,関東財務局長 第00003号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+bitflyer,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-12-09,"bitFlyer USA, Inc.",,https://msb.fincen.gov/
 bybit-eu,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-05-28,Bybit EU GmbH,5299005V5GBSN2A4C303,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 bybit-eu,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-05-28,BYBIT EU GMBH,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 gemini,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2020-06-19,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
@@ -116,28 +127,17 @@ gemini,UK,FCA_UK,United Kingdom · FCA,AUTHORISED,confirmed,2020-08-19,,,https:/
 gemini,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2025-12-22,"Gemini Trust Company, LLC",,https://msb.fincen.gov/
 gemini,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,name_match_unconfirmed,2026-06-30,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 gemini,FR,AMF_FR,France · AMF,WITHDRAWN,name_match_unconfirmed,2026-07-02,GEMINI INTERGALACTIC EUROPE LIMITED,E2023-105,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-coincheck,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,コインチェック株式会社,関東財務局長 第00014号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
 binance-us,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2025-05-21,BAM Trading Services Inc.,,https://msb.fincen.gov/
+indodax,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-02-01,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-22-September-2026.aspx
 backpack,AE,VARA_AE,Dubai · VARA,AUTHORISED,confirmed,,,,https://www.vara.ae/en/licenses-and-register/public-register/
 backpack,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2026-05-27,"""Trek Technologies"" SIA",6488C2PNI17093U2YA18,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 backpack,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2026-07-01,TREK TECHNOLOGIES SIA,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-bitflyer,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2026-06-26,bitFlyer EUROPE S.A.,984500D4465EFA89EF38,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
-bitflyer,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2026-06-26,BITFLYER EUROPE S.A.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-bitflyer,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,株式会社bitFlyer,関東財務局長 第00003号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
-bitflyer,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-12-09,"bitFlyer USA, Inc.",,https://msb.fincen.gov/
-indodax,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-02-01,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-13-Agustus-2026.aspx
-cex-io,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2023-09-06,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cex-io,UK,FCA_UK,United Kingdom · FCA,AUTHORISED,confirmed,2026-03-11,,,https://register.fca.org.uk/s/search?predefined=CA
-cex-io,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2024-12-12,CEX.IO Corp.,,https://msb.fincen.gov/
-cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2025-03-12,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2022-09-09,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cex-io,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-10-31,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+luno,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2026-05-25,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-22-September-2026.aspx
+luno,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-07-28,LUNO FRANCE SAS,E2022-045,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 one-trading,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2025-05-15,One Trading Exchange B.V.,984500AA963ED2BA8460,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 one-trading,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-06-30,ONE TRADING EXCHANGE B.V.,N/A - Passeport,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-luno,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2026-05-25,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-13-Agustus-2026.aspx
-luno,FR,AMF_FR,France · AMF,WITHDRAWN,confirmed,2025-07-28,LUNO FRANCE SAS,E2022-045,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
-coinex,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-02-29,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 bittrade,JP,FSA_JP,Japan · FSA,AUTHORISED,confirmed,,ビットトレード株式会社,関東財務局長 第00007号,https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+coinex,CA,FINTRAC_CA,Canada · FINTRAC,WITHDRAWN,confirmed,2024-02-29,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 ndax,CA,FINTRAC_CA,Canada · FINTRAC,AUTHORISED,confirmed,2018-03-15,,,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 ndax,US,FINCEN_US,United States · FinCEN,AUTHORISED,confirmed,2025-07-23,NDAX US Inc.,,https://msb.fincen.gov/
 coinmate,EU,ESMA_MICA,EU · MiCA,AUTHORISED,confirmed,2026-02-27,COINMATE a.s.,3157005QCM6Y91CUV844,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
@@ -149,5 +149,5 @@ blockchain-com,FR,AMF_FR,France · AMF,AUTHORISED,confirmed,2025-12-01,BLOCKCHAI
 blockchain-com,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/409117-BLOCKCHAIN-COM-SINGAPORE-PTE-LTD
 blockchain-com,UK,FCA_UK,United Kingdom · FCA,AUTHORISED,confirmed,2026-02-10,,,https://register.fca.org.uk/s/search?predefined=CA
 bitopro,TW,FSC_TW,Taiwan · FSC,AUTHORISED,confirmed,2026-09-03,幣託科技股份有限公司,90577481,"https://www.sfb.gov.tw/ch/home.jsp?id=1053&parentpath=0,8"
-tokocrypto,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-02-01,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-13-Agustus-2026.aspx
+tokocrypto,ID,OJK_ID,Indonesia · OJK,AUTHORISED,confirmed,2025-02-01,,,https://ojk.go.id/id/Fungsi-Utama/ITSK/Perizinan-ITSK-Aset-Keuangan-Digital-Aset-Kripto/Pages/Daftar-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Posisi-22-September-2026.aspx
 independent-reserve,SG,MAS_SG,Singapore · MAS,AUTHORISED,confirmed,,,,https://eservices.mas.gov.sg/fid/institution/detail/243463-INDEPENDENT-RESERVE-SG-PTE-LTD
