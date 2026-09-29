@@ -1,4 +1,19 @@
 exchange_slug,exchange_name,website,jurisdiction,jurisdiction_name,status,registers_read,takame_page
+bigone,BigONE,https://bigone.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bigone
+bigone,BigONE,https://bigone.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bigone
 binance,Binance,https://www.binance.com,IN,India,flagged,India · FIU-IND enforcement orders,https://takame.io/en/exchange/binance
 binance,Binance,https://www.binance.com,JP,Japan,licensed-flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/binance
 binance,Binance,https://www.binance.com,AE,Dubai,licensed,Dubai · VARA,https://takame.io/en/exchange/binance
@@ -44,21 +59,6 @@ coinbase,Coinbase,https://www.coinbase.com,MY,Malaysia,absent,Malaysia · SC ale
 coinbase,Coinbase,https://www.coinbase.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/coinbase
 coinbase,Coinbase,https://www.coinbase.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/coinbase
 coinbase,Coinbase,https://www.coinbase.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coinbase
-okx,OKX,https://www.okx.com,AE,Dubai,licensed,Dubai · VARA,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/okx
-okx,OKX,https://www.okx.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/okx
 weex,WEEX,https://www.weex.com,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/weex
 weex,WEEX,https://www.weex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/weex
 weex,WEEX,https://www.weex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/weex
@@ -74,6 +74,21 @@ weex,WEEX,https://www.weex.com,KR,South Korea,absent,South Korea · FIU,https://
 weex,WEEX,https://www.weex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/weex
 weex,WEEX,https://www.weex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/weex
 weex,WEEX,https://www.weex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/weex
+okx,OKX,https://www.okx.com,AE,Dubai,licensed,Dubai · VARA,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/okx
+okx,OKX,https://www.okx.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/okx
 lbank,LBank,https://www.lbank.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/lbank
 lbank,LBank,https://www.lbank.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/lbank
 lbank,LBank,https://www.lbank.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/lbank
@@ -89,6 +104,21 @@ lbank,LBank,https://www.lbank.com,KR,South Korea,absent,South Korea · FIU,https
 lbank,LBank,https://www.lbank.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/lbank
 lbank,LBank,https://www.lbank.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/lbank
 lbank,LBank,https://www.lbank.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/lbank
+kraken,Kraken,https://www.kraken.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/kraken
+kraken,Kraken,https://www.kraken.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/kraken
 toobit,Toobit,https://www.toobit.com,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/toobit
 toobit,Toobit,https://www.toobit.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/toobit
 toobit,Toobit,https://www.toobit.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/toobit
@@ -134,21 +164,21 @@ bybit,Bybit,https://www.bybit.com,KR,South Korea,absent,South Korea · FIU,https
 bybit,Bybit,https://www.bybit.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bybit
 bybit,Bybit,https://www.bybit.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bybit
 bybit,Bybit,https://www.bybit.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bybit
-kraken,Kraken,https://www.kraken.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/kraken
-kraken,Kraken,https://www.kraken.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/kraken
+kucoin,KuCoin,https://www.kucoin.com,IN,India,flagged,India · FIU-IND enforcement orders,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/kucoin
+kucoin,KuCoin,https://www.kucoin.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/kucoin
 mexc,MEXC,https://www.mexc.com,EU,European Union,flagged,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/mexc
 mexc,MEXC,https://www.mexc.com,HK,Hong Kong,flagged,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/mexc
 mexc,MEXC,https://www.mexc.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/mexc
@@ -179,21 +209,6 @@ gate,Gate,https://www.gate.com,KR,South Korea,absent,South Korea · FIU,https://
 gate,Gate,https://www.gate.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/gate
 gate,Gate,https://www.gate.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/gate
 gate,Gate,https://www.gate.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/gate
-kucoin,KuCoin,https://www.kucoin.com,IN,India,flagged,India · FIU-IND enforcement orders,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/kucoin
-kucoin,KuCoin,https://www.kucoin.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/kucoin
 upbit,Upbit,https://upbit.com,ID,Indonesia,licensed,Indonesia · OJK,https://takame.io/en/exchange/upbit
 upbit,Upbit,https://upbit.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/upbit
 upbit,Upbit,https://upbit.com,KR,South Korea,licensed,South Korea · FIU,https://takame.io/en/exchange/upbit
@@ -224,66 +239,6 @@ whitebit,WhiteBIT,https://whitebit.com,SG,Singapore,absent,Singapore · MAS,http
 whitebit,WhiteBIT,https://whitebit.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/whitebit
 whitebit,WhiteBIT,https://whitebit.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/whitebit
 whitebit,WhiteBIT,https://whitebit.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/whitebit
-htx,HTX,https://www.htx.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/htx
-htx,HTX,https://www.htx.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/htx
-bigone,BigONE,https://bigone.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bigone
-bigone,BigONE,https://bigone.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bigone
-bitfinex,Bitfinex,https://www.bitfinex.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitfinex
-bitfinex,Bitfinex,https://www.bitfinex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitfinex
-bitget,Bitget,https://www.bitget.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitget
-bitget,Bitget,https://www.bitget.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitget
 poloniex,Poloniex,https://poloniex.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/poloniex
 poloniex,Poloniex,https://poloniex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/poloniex
 poloniex,Poloniex,https://poloniex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/poloniex
@@ -299,6 +254,21 @@ poloniex,Poloniex,https://poloniex.com,KR,South Korea,absent,South Korea · FIU,
 poloniex,Poloniex,https://poloniex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/poloniex
 poloniex,Poloniex,https://poloniex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/poloniex
 poloniex,Poloniex,https://poloniex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/poloniex
+htx,HTX,https://www.htx.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/htx
+htx,HTX,https://www.htx.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/htx
 crypto-com,Crypto.com,https://crypto.com,AE,Dubai,licensed,Dubai · VARA,https://takame.io/en/exchange/crypto-com
 crypto-com,Crypto.com,https://crypto.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/crypto-com
 crypto-com,Crypto.com,https://crypto.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/crypto-com
@@ -329,6 +299,36 @@ phemex,Phemex,https://phemex.com,KR,South Korea,absent,South Korea · FIU,https:
 phemex,Phemex,https://phemex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/phemex
 phemex,Phemex,https://phemex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/phemex
 phemex,Phemex,https://phemex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/phemex
+bitget,Bitget,https://www.bitget.com,JP,Japan,flagged,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,MY,Malaysia,flagged,Malaysia · SC alert list,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitget
+bitget,Bitget,https://www.bitget.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitget
+bitstamp,Bitstamp,https://www.bitstamp.net,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitstamp
+bitstamp,Bitstamp,https://www.bitstamp.net,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitstamp
 bithumb,Bithumb,https://www.bithumb.com,KR,South Korea,licensed,South Korea · FIU,https://takame.io/en/exchange/bithumb
 bithumb,Bithumb,https://www.bithumb.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bithumb
 bithumb,Bithumb,https://www.bithumb.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bithumb
@@ -374,21 +374,6 @@ digifinex,DigiFinex,https://www.digifinex.com,KR,South Korea,absent,South Korea 
 digifinex,DigiFinex,https://www.digifinex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/digifinex
 digifinex,DigiFinex,https://www.digifinex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/digifinex
 digifinex,DigiFinex,https://www.digifinex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/digifinex
-bitstamp,Bitstamp,https://www.bitstamp.net,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitstamp
-bitstamp,Bitstamp,https://www.bitstamp.net,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitstamp
 bitvavo,Bitvavo,https://bitvavo.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitvavo
 bitvavo,Bitvavo,https://bitvavo.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bitvavo
 bitvavo,Bitvavo,https://bitvavo.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitvavo
@@ -404,21 +389,6 @@ bitvavo,Bitvavo,https://bitvavo.com,KR,South Korea,absent,South Korea · FIU,htt
 bitvavo,Bitvavo,https://bitvavo.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitvavo
 bitvavo,Bitvavo,https://bitvavo.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitvavo
 bitvavo,Bitvavo,https://bitvavo.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitvavo
-p2b,P2B,https://p2pb2b.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/p2b
-p2b,P2B,https://p2pb2b.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/p2b
 btse,BTSE,https://www.btse.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/btse
 btse,BTSE,https://www.btse.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/btse
 btse,BTSE,https://www.btse.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/btse
@@ -434,6 +404,21 @@ btse,BTSE,https://www.btse.com,KR,South Korea,absent,South Korea · FIU,https://
 btse,BTSE,https://www.btse.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/btse
 btse,BTSE,https://www.btse.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/btse
 btse,BTSE,https://www.btse.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/btse
+p2b,P2B,https://p2pb2b.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/p2b
+p2b,P2B,https://p2pb2b.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/p2b
 cryptomus,Cryptomus,https://cryptomus.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/cryptomus
 cryptomus,Cryptomus,https://cryptomus.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/cryptomus
 cryptomus,Cryptomus,https://cryptomus.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/cryptomus
@@ -449,6 +434,21 @@ cryptomus,Cryptomus,https://cryptomus.com,KR,South Korea,absent,South Korea · F
 cryptomus,Cryptomus,https://cryptomus.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/cryptomus
 cryptomus,Cryptomus,https://cryptomus.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/cryptomus
 cryptomus,Cryptomus,https://cryptomus.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/cryptomus
+bitfinex,Bitfinex,https://www.bitfinex.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitfinex
+bitfinex,Bitfinex,https://www.bitfinex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitfinex
 btcturk,BtcTurk,https://www.btcturk.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/btcturk
 btcturk,BtcTurk,https://www.btcturk.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/btcturk
 btcturk,BtcTurk,https://www.btcturk.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/btcturk
@@ -494,21 +494,6 @@ fmfw,FMFW.io,https://fmfw.io,KR,South Korea,absent,South Korea · FIU,https://ta
 fmfw,FMFW.io,https://fmfw.io,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/fmfw
 fmfw,FMFW.io,https://fmfw.io,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/fmfw
 fmfw,FMFW.io,https://fmfw.io,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/fmfw
-bequant,Bequant,https://bequant.io,EU,European Union,unconfirmed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,FR,France,unconfirmed,France · AMF,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bequant
-bequant,Bequant,https://bequant.io,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bequant
 coinone,Coinone,https://coinone.co.kr,KR,South Korea,licensed,South Korea · FIU,https://takame.io/en/exchange/coinone
 coinone,Coinone,https://coinone.co.kr,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/coinone
 coinone,Coinone,https://coinone.co.kr,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coinone
@@ -524,6 +509,21 @@ coinone,Coinone,https://coinone.co.kr,SG,Singapore,absent,Singapore · MAS,https
 coinone,Coinone,https://coinone.co.kr,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coinone
 coinone,Coinone,https://coinone.co.kr,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coinone
 coinone,Coinone,https://coinone.co.kr,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coinone
+bequant,Bequant,https://bequant.io,EU,European Union,unconfirmed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,FR,France,unconfirmed,France · AMF,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bequant
+bequant,Bequant,https://bequant.io,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bequant
 revolut-x,Revolut X,https://exchange.revolut.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/revolut-x
 revolut-x,Revolut X,https://exchange.revolut.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/revolut-x
 revolut-x,Revolut X,https://exchange.revolut.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/revolut-x
@@ -539,21 +539,6 @@ revolut-x,Revolut X,https://exchange.revolut.com,KR,South Korea,absent,South Kor
 revolut-x,Revolut X,https://exchange.revolut.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/revolut-x
 revolut-x,Revolut X,https://exchange.revolut.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/revolut-x
 revolut-x,Revolut X,https://exchange.revolut.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/revolut-x
-latoken,LATOKEN,https://latoken.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/latoken
-latoken,LATOKEN,https://latoken.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/latoken
 cex-io,CEX.IO,https://cex.io,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/cex-io
 cex-io,CEX.IO,https://cex.io,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/cex-io
 cex-io,CEX.IO,https://cex.io,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/cex-io
@@ -569,21 +554,21 @@ cex-io,CEX.IO,https://cex.io,PH,Philippines,absent,Philippines · BSP,https://ta
 cex-io,CEX.IO,https://cex.io,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/cex-io
 cex-io,CEX.IO,https://cex.io,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/cex-io
 cex-io,CEX.IO,https://cex.io,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/cex-io
-coins-ph,Coins.ph,https://coins.ph,PH,Philippines,licensed,Philippines · BSP,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,FR,France,absent,France · AMF,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coins-ph
-coins-ph,Coins.ph,https://coins.ph,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coins-ph
+latoken,LATOKEN,https://latoken.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/latoken
+latoken,LATOKEN,https://latoken.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/latoken
 foxbit,Foxbit,https://foxbit.com.br,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/foxbit
 foxbit,Foxbit,https://foxbit.com.br,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/foxbit
 foxbit,Foxbit,https://foxbit.com.br,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/foxbit
@@ -599,6 +584,21 @@ foxbit,Foxbit,https://foxbit.com.br,KR,South Korea,absent,South Korea · FIU,htt
 foxbit,Foxbit,https://foxbit.com.br,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/foxbit
 foxbit,Foxbit,https://foxbit.com.br,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/foxbit
 foxbit,Foxbit,https://foxbit.com.br,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/foxbit
+coins-ph,Coins.ph,https://coins.ph,PH,Philippines,licensed,Philippines · BSP,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,FR,France,absent,France · AMF,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coins-ph
+coins-ph,Coins.ph,https://coins.ph,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coins-ph
 coincheck,Coincheck,https://coincheck.com,JP,Japan,licensed,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/coincheck
 coincheck,Coincheck,https://coincheck.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/coincheck
 coincheck,Coincheck,https://coincheck.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coincheck
@@ -614,6 +614,21 @@ coincheck,Coincheck,https://coincheck.com,KR,South Korea,absent,South Korea · F
 coincheck,Coincheck,https://coincheck.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coincheck
 coincheck,Coincheck,https://coincheck.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coincheck
 coincheck,Coincheck,https://coincheck.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coincheck
+hollaex,HollaEx,https://pro.hollaex.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/hollaex
+hollaex,HollaEx,https://pro.hollaex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/hollaex
 deepcoin,Deepcoin,https://www.deepcoin.com,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/deepcoin
 deepcoin,Deepcoin,https://www.deepcoin.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/deepcoin
 deepcoin,Deepcoin,https://www.deepcoin.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/deepcoin
@@ -644,51 +659,6 @@ bitbank,bitbank,https://bitbank.cc,KR,South Korea,absent,South Korea · FIU,http
 bitbank,bitbank,https://bitbank.cc,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitbank
 bitbank,bitbank,https://bitbank.cc,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitbank
 bitbank,bitbank,https://bitbank.cc,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitbank
-bitflyer,bitFlyer,https://bitflyer.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,JP,Japan,licensed,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitflyer
-bitflyer,bitFlyer,https://bitflyer.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitflyer
-hollaex,HollaEx,https://pro.hollaex.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/hollaex
-hollaex,HollaEx,https://pro.hollaex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/hollaex
-bybit-eu,Bybit EU,https://www.bybit.eu,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bybit-eu
-bybit-eu,Bybit EU,https://www.bybit.eu,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bybit-eu
 gemini,Gemini,https://www.gemini.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/gemini
 gemini,Gemini,https://www.gemini.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/gemini
 gemini,Gemini,https://www.gemini.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/gemini
@@ -704,6 +674,36 @@ gemini,Gemini,https://www.gemini.com,MY,Malaysia,absent,Malaysia · SC alert lis
 gemini,Gemini,https://www.gemini.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/gemini
 gemini,Gemini,https://www.gemini.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/gemini
 gemini,Gemini,https://www.gemini.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/gemini
+bybit-eu,Bybit EU,https://www.bybit.eu,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bybit-eu
+bybit-eu,Bybit EU,https://www.bybit.eu,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bybit-eu
+bitflyer,bitFlyer,https://bitflyer.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,JP,Japan,licensed,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitflyer
+bitflyer,bitFlyer,https://bitflyer.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitflyer
 binance-us,Binance.US,https://www.binance.us,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/binance-us
 binance-us,Binance.US,https://www.binance.us,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/binance-us
 binance-us,Binance.US,https://www.binance.us,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/binance-us
@@ -734,6 +734,21 @@ indodax,Indodax,https://indodax.com,KR,South Korea,absent,South Korea · FIU,htt
 indodax,Indodax,https://indodax.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/indodax
 indodax,Indodax,https://indodax.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/indodax
 indodax,Indodax,https://indodax.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/indodax
+bittrade,BitTrade,https://www.bittrade.co.jp,JP,Japan,licensed,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,FR,France,absent,France · AMF,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bittrade
+bittrade,BitTrade,https://www.bittrade.co.jp,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bittrade
 backpack,Backpack,https://backpack.exchange,AE,Dubai,licensed,Dubai · VARA,https://takame.io/en/exchange/backpack
 backpack,Backpack,https://backpack.exchange,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/backpack
 backpack,Backpack,https://backpack.exchange,FR,France,licensed,France · AMF,https://takame.io/en/exchange/backpack
@@ -779,36 +794,6 @@ one-trading,One Trading,https://onetrading.com,KR,South Korea,absent,South Korea
 one-trading,One Trading,https://onetrading.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/one-trading
 one-trading,One Trading,https://onetrading.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/one-trading
 one-trading,One Trading,https://onetrading.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/one-trading
-bittrade,BitTrade,https://www.bittrade.co.jp,JP,Japan,licensed,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,FR,France,absent,France · AMF,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bittrade
-bittrade,BitTrade,https://www.bittrade.co.jp,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bittrade
-coinex,CoinEx,https://www.coinex.com,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coinex
-coinex,CoinEx,https://www.coinex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coinex
 ndax,NDAX,https://ndax.io,CA,Canada,self-filed,Canada · FINTRAC,https://takame.io/en/exchange/ndax
 ndax,NDAX,https://ndax.io,US,United States,self-filed,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/ndax
 ndax,NDAX,https://ndax.io,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/ndax
@@ -839,6 +824,21 @@ btc-markets,BTC Markets,https://www.btcmarkets.net,KR,South Korea,absent,South K
 btc-markets,BTC Markets,https://www.btcmarkets.net,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/btc-markets
 btc-markets,BTC Markets,https://www.btcmarkets.net,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/btc-markets
 btc-markets,BTC Markets,https://www.btcmarkets.net,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/btc-markets
+coinex,CoinEx,https://www.coinex.com,CA,Canada,withdrawn,Canada · FINTRAC,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,FR,France,absent,France · AMF,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,SG,Singapore,absent,Singapore · MAS,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/coinex
+coinex,CoinEx,https://www.coinex.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/coinex
 coinmate,Coinmate,https://coinmate.io,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/coinmate
 coinmate,Coinmate,https://coinmate.io,FR,France,licensed,France · AMF,https://takame.io/en/exchange/coinmate
 coinmate,Coinmate,https://coinmate.io,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/coinmate
@@ -914,21 +914,6 @@ hashkey-global,HashKey Global,https://global.hashkey.com,KR,South Korea,absent,S
 hashkey-global,HashKey Global,https://global.hashkey.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/hashkey-global
 hashkey-global,HashKey Global,https://global.hashkey.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/hashkey-global
 hashkey-global,HashKey Global,https://global.hashkey.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/hashkey-global
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/blockchain-com
-blockchain-com,Blockchain.com,https://exchange.blockchain.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/blockchain-com
 bitbns,Bitbns,https://bitbns.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitbns
 bitbns,Bitbns,https://bitbns.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitbns
 bitbns,Bitbns,https://bitbns.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitbns
@@ -944,6 +929,21 @@ bitbns,Bitbns,https://bitbns.com,KR,South Korea,absent,South Korea · FIU,https:
 bitbns,Bitbns,https://bitbns.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/bitbns
 bitbns,Bitbns,https://bitbns.com,UK,United Kingdom,absent,United Kingdom · FCA,https://takame.io/en/exchange/bitbns
 bitbns,Bitbns,https://bitbns.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/bitbns
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,EU,European Union,licensed,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,FR,France,licensed,France · AMF,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,SG,Singapore,licensed,Singapore · MAS,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,UK,United Kingdom,licensed,United Kingdom · FCA,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,HK,Hong Kong,absent,Hong Kong · SFC | Hong Kong · SFC alert list,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,IN,India,absent,India · FIU-IND enforcement orders,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,ID,Indonesia,absent,Indonesia · OJK,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,JP,Japan,absent,Japan · FSA | Japan · FSA warning list,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,MY,Malaysia,absent,Malaysia · SC alert list,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,PH,Philippines,absent,Philippines · BSP,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,KR,South Korea,absent,South Korea · FIU,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,TW,Taiwan,absent,Taiwan · FSC,https://takame.io/en/exchange/blockchain-com
+blockchain-com,Blockchain.com,https://exchange.blockchain.com,US,United States,absent,United States · FinCEN | United States · CFTC RED list,https://takame.io/en/exchange/blockchain-com
 bitso,Bitso,https://bitso.com,CA,Canada,absent,Canada · FINTRAC,https://takame.io/en/exchange/bitso
 bitso,Bitso,https://bitso.com,AE,Dubai,absent,Dubai · VARA,https://takame.io/en/exchange/bitso
 bitso,Bitso,https://bitso.com,EU,European Union,absent,EU · MiCA | EU · non-compliant list,https://takame.io/en/exchange/bitso
