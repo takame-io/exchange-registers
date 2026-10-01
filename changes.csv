@@ -1,4 +1,5 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmupvd8p300nt5rpfnejl7j3d,2026-10-01,2026-05-01,AMF_FR,FR,detail,J2TX LTD,https://takame.io/en/changes/cmupvd8p300nt5rpfnejl7j3d,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmuofxbbi00a36vpfyd56avxi,2026-09-30,2026-09-23,ESMA_MICA,EU,added,VS Digital Europe Ltd.,https://takame.io/en/changes/cmuofxbbi00a36vpfyd56avxi,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmuofxbbf00a26vpfeubka634,2026-09-30,2026-09-24,ESMA_MICA,EU,added,VR Bank zwischen den Meeren eG,https://takame.io/en/changes/cmuofxbbf00a26vpfeubka634,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmuofxbb900a16vpffgixcyqf,2026-09-30,2026-03-16,ESMA_MICA,EU,detail,J2TX Ltd,https://takame.io/en/changes/cmuofxbb900a16vpffgixcyqf,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
