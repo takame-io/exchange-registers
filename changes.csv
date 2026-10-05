@@ -1,4 +1,7 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmuvlcns904oy66pfep1zjkrw,2026-10-05,2026-09-04,FINTRAC_CA,CA,revoked,,https://takame.io/en/changes/cmuvlcns904oy66pfep1zjkrw,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cmuvlc94801ij66pfn20c10b4,2026-10-05,2026-09-29,FSC_TW,TW,status,三川通證股份有限公司,https://takame.io/en/changes/cmuvlc94801ij66pfn20c10b4,"https://www.sfb.gov.tw/ch/home.jsp?id=1053&parentpath=0,8"
+cmuvlc91r01ho66pfx3ulc35y,2026-10-05,,FIU_KR,KR,removed,,https://takame.io/en/changes/cmuvlc91r01ho66pfx3ulc35y,https://www.kofiu.go.kr/kor/notification/notice.do
 cmupvd8p300nt5rpfnejl7j3d,2026-10-01,2026-05-01,AMF_FR,FR,detail,J2TX LTD,https://takame.io/en/changes/cmupvd8p300nt5rpfnejl7j3d,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmuofxbbi00a36vpfyd56avxi,2026-09-30,2026-09-23,ESMA_MICA,EU,added,VS Digital Europe Ltd.,https://takame.io/en/changes/cmuofxbbi00a36vpfyd56avxi,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmuofxbbf00a26vpfeubka634,2026-09-30,2026-09-24,ESMA_MICA,EU,added,VR Bank zwischen den Meeren eG,https://takame.io/en/changes/cmuofxbbf00a26vpfeubka634,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
