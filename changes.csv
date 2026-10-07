@@ -1,4 +1,12 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmuygd63q003n04l6x2pg73l9,2026-10-07,,SC_MY_WARNING,MY,removed,,https://takame.io/en/changes/cmuygd63q003n04l6x2pg73l9,https://www.sc.com.my/investor-alert-list
+cmuyg0cf500o7iipfhoq0ofc3,2026-10-07,2026-10-06,AMF_FR,FR,added,ALARIC SECURITIES OOD,https://takame.io/en/changes/cmuyg0cf500o7iipfhoq0ofc3,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+cmuyg0a7000aciipfn9ceqv22,2026-10-07,2026-09-30,ESMA_MICA,EU,added,Noah LV SIA,https://takame.io/en/changes/cmuyg0a7000aciipfn9ceqv22,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmuyg0a6x00abiipflbik4xli,2026-10-07,2026-09-30,ESMA_MICA,EU,added,Atrya Technologies SIA,https://takame.io/en/changes/cmuyg0a6x00abiipflbik4xli,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmuyg0a6v00aaiipf81xllz4h,2026-10-07,2026-10-06,ESMA_MICA,EU,added,VR GenoBank DonauWald eG,https://takame.io/en/changes/cmuyg0a6v00aaiipf81xllz4h,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmuyg0a6t00a9iipfmedm37qg,2026-10-07,2026-10-30,ESMA_MICA,EU,added,Raiffeisenbank Rehling eG,https://takame.io/en/changes/cmuyg0a6t00a9iipfmedm37qg,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmuyg0a6q00a8iipfhd48r2fk,2026-10-07,2026-09-30,ESMA_MICA,EU,added,VR Bank Nord eG,https://takame.io/en/changes/cmuyg0a6q00a8iipfhd48r2fk,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmuyg0a6m00a7iipfqhb3rit1,2026-10-07,2026-10-02,ESMA_MICA,EU,added,Raiffeisenbank im Fuldaer Land eG,https://takame.io/en/changes/cmuyg0a6m00a7iipfqhb3rit1,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmux0kijf00nun8pfiwx5d94y,2026-10-06,2026-10-01,AMF_FR,FR,added,ATRYA TECHNOLOGIES SIA,https://takame.io/en/changes/cmux0kijf00nun8pfiwx5d94y,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmuvlcns904oy66pfep1zjkrw,2026-10-05,2026-09-04,FINTRAC_CA,CA,revoked,,https://takame.io/en/changes/cmuvlcns904oy66pfep1zjkrw,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmuvlc94801ij66pfn20c10b4,2026-10-05,2026-09-29,FSC_TW,TW,status,三川通證股份有限公司,https://takame.io/en/changes/cmuvlc94801ij66pfn20c10b4,"https://www.sfb.gov.tw/ch/home.jsp?id=1053&parentpath=0,8"
