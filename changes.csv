@@ -1,4 +1,7 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmuzvt0o7003o06jqw9vauo99,2026-10-08,,SC_MY_WARNING,MY,flagged,,https://takame.io/en/changes/cmuzvt0o7003o06jqw9vauo99,https://www.sc.com.my/investor-alert-list
+cmuzvgacv00o0yvpfc98a1gq0,2026-10-08,,AMF_FR,FR,removed,ATRYA TECHNOLOGIES SIA,https://takame.io/en/changes/cmuzvgacv00o0yvpfc98a1gq0,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+cmuzvgacr00nzyvpfrvefzi6p,2026-10-08,,AMF_FR,FR,removed,ALARIC SECURITIES OOD,https://takame.io/en/changes/cmuzvgacr00nzyvpfrvefzi6p,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmuygd63q003n04l6x2pg73l9,2026-10-07,,SC_MY_WARNING,MY,removed,,https://takame.io/en/changes/cmuygd63q003n04l6x2pg73l9,https://www.sc.com.my/investor-alert-list
 cmuyg0cf500o7iipfhoq0ofc3,2026-10-07,2026-10-06,AMF_FR,FR,added,ALARIC SECURITIES OOD,https://takame.io/en/changes/cmuyg0cf500o7iipfhoq0ofc3,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmuyg0a7000aciipfn9ceqv22,2026-10-07,2026-09-30,ESMA_MICA,EU,added,Noah LV SIA,https://takame.io/en/changes/cmuyg0a7000aciipfn9ceqv22,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
