@@ -1,4 +1,7 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmvflij1w05897epfe2eda5gq,2026-10-19,2026-10-13,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1w05897epfe2eda5gq,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=102838
+cmvflij1u05887epf90a9v2md,2026-10-19,2026-10-12,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1u05887epf90a9v2md,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=101469
+cmvflij1r05877epfgpn4t731,2026-10-19,2026-08-27,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1r05877epfgpn4t731,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=101876
 cmvbaz1n300fx6tpfs8he737p,2026-10-16,,ESMA_MICA_NCA,EU,flagged,K9C3Y,https://takame.io/en/changes/cmvbaz1n300fx6tpfs8he737p,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
 cmvbaz1n100fw6tpflc0px3yy,2026-10-16,,ESMA_MICA_NCA,EU,flagged,HREE25,https://takame.io/en/changes/cmvbaz1n100fw6tpflc0px3yy,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
 cmvbaz1my00fv6tpf3fp0cly5,2026-10-16,,ESMA_MICA_NCA,EU,flagged,EZWQ66,https://takame.io/en/changes/cmvbaz1my00fv6tpf3fp0cly5,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
