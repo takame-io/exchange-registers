@@ -1,4 +1,17 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmvjvyx55003t08jv6n2nzv9e,2026-10-22,,SC_MY_WARNING,MY,flagged,,https://takame.io/en/changes/cmvjvyx55003t08jv6n2nzv9e,https://www.sc.com.my/investor-alert-list
+cmvjvyx50003s08jvk75agu0r,2026-10-22,,SC_MY_WARNING,MY,flagged,,https://takame.io/en/changes/cmvjvyx50003s08jvk75agu0r,https://www.sc.com.my/investor-alert-list
+cmvjvyx4w003r08jvkym08oxy,2026-10-22,,SC_MY_WARNING,MY,flagged,,https://takame.io/en/changes/cmvjvyx4w003r08jvkym08oxy,https://www.sc.com.my/investor-alert-list
+cmvjvm8i100oytdpfus4yppwi,2026-10-22,2026-10-15,AMF_FR,FR,added,FF DIGITAL LTD,https://takame.io/en/changes/cmvjvm8i100oytdpfus4yppwi,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+cmvjvm5fx00awtdpfgknybx4q,2026-10-22,2026-10-30,ESMA_MICA,EU,added,Volksbank in der Hohen Mark eG,https://takame.io/en/changes/cmvjvm5fx00awtdpfgknybx4q,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fv00avtdpfxpeupfwg,2026-10-22,2026-11-19,ESMA_MICA,EU,added,Volksbank Oberberg eG,https://takame.io/en/changes/cmvjvm5fv00avtdpfxpeupfwg,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5ft00autdpfxpodnjgq,2026-10-22,2026-11-18,ESMA_MICA,EU,added,Volksbank in Ostwestfalen eG,https://takame.io/en/changes/cmvjvm5ft00autdpfxpodnjgq,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fr00attdpfukk5o0e4,2026-10-22,2026-10-22,ESMA_MICA,EU,added,Volksbank Niederrhein eG,https://takame.io/en/changes/cmvjvm5fr00attdpfukk5o0e4,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fq00astdpfela77cul,2026-10-22,2026-10-19,ESMA_MICA,EU,added,Raiffeisenbank Eifel eG,https://takame.io/en/changes/cmvjvm5fq00astdpfela77cul,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fo00artdpf39fuir5b,2026-10-22,2026-10-19,ESMA_MICA,EU,added,Sparda-Bank Baden-Württemberg eG,https://takame.io/en/changes/cmvjvm5fo00artdpf39fuir5b,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fl00aqtdpfgzo1md8e,2026-10-22,2026-08-27,ESMA_MICA,EU,added,Volksbank Mittlerer Neckar eG,https://takame.io/en/changes/cmvjvm5fl00aqtdpfgzo1md8e,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fi00aptdpfaew7urlb,2026-10-22,2026-08-27,ESMA_MICA,EU,added,Volksbank in der Region eG,https://takame.io/en/changes/cmvjvm5fi00aptdpfaew7urlb,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmvjvm5fa00aotdpfayzx1efz,2026-10-22,2026-10-07,ESMA_MICA,EU,detail,KSW Vermögensverwaltung AG,https://takame.io/en/changes/cmvjvm5fa00aotdpfayzx1efz,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmvflij1w05897epfe2eda5gq,2026-10-19,2026-10-13,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1w05897epfe2eda5gq,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=102838
 cmvflij1u05887epf90a9v2md,2026-10-19,2026-10-12,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1u05887epf90a9v2md,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=101469
 cmvflij1r05877epfgpn4t731,2026-10-19,2026-08-27,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvflij1r05877epfgpn4t731,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=101876
