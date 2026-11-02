@@ -1,4 +1,16 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmvzlnzxt05h6v6pfj9seoobs,2026-11-02,2024-11-04,AFSA_KZ,KZ,detail,,https://takame.io/en/changes/cmvzlnzxt05h6v6pfj9seoobs,https://publicreg.myafsa.com/licence_details/AFSA-G-LA-2024-0012/
+cmvzlnypi0582v6pfm4mqnpzy,2026-11-02,,BAFIN_DE,DE,removed,,https://takame.io/en/changes/cmvzlnypi0582v6pfm4mqnpzy,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=164769
+cmvzlnypg0581v6pfexo56ujl,2026-11-02,2026-10-23,BAFIN_DE,DE,added,,https://takame.io/en/changes/cmvzlnypg0581v6pfexo56ujl,https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=106808
+cmvzlnyfe0558v6pfuq43wz7u,2026-11-02,,SPK_TR,TR,removed,,https://takame.io/en/changes/cmvzlnyfe0558v6pfuq43wz7u,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/faaliyette-bulunanlar-listesi
+cmvzlnyfc0557v6pf545ss4ch,2026-11-02,,SPK_TR,TR,removed,,https://takame.io/en/changes/cmvzlnyfc0557v6pf545ss4ch,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/tasfiye-surecinde-olanlar-listesi
+cmvzlnyfb0556v6pfazhgxnjf,2026-11-02,,SPK_TR,TR,status,,https://takame.io/en/changes/cmvzlnyfb0556v6pfazhgxnjf,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/tasfiye-surecinde-olanlar-listesi
+cmvzlnyf90555v6pfdmfcvpn4,2026-11-02,,SPK_TR,TR,status,,https://takame.io/en/changes/cmvzlnyf90555v6pfdmfcvpn4,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/tasfiye-surecinde-olanlar-listesi
+cmvzlnyf70554v6pf1wdk3ean,2026-11-02,,SPK_TR,TR,status,,https://takame.io/en/changes/cmvzlnyf70554v6pf1wdk3ean,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/tasfiye-surecinde-olanlar-listesi
+cmvzlnyf60553v6pf1lwe94tz,2026-11-02,,SPK_TR,TR,added,,https://takame.io/en/changes/cmvzlnyf60553v6pf1lwe94tz,https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/faaliyette-bulunanlar-listesi
+cmvzlng8w01g9v6pf2p0z2f4p,2026-11-02,,FIU_KR,KR,removed,,https://takame.io/en/changes/cmvzlng8w01g9v6pf2p0z2f4p,https://www.kofiu.go.kr/kor/notification/notice.do
+cmvzlng8u01g8v6pf0xrdrd8p,2026-11-02,2026-10-30,FIU_KR,KR,added,,https://takame.io/en/changes/cmvzlng8u01g8v6pf0xrdrd8p,https://www.kofiu.go.kr/kor/notification/notice.do
+cmvzlnf7w018ov6pftyegovgq,2026-11-02,,VARA_AE,AE,detail,,https://takame.io/en/changes/cmvzlnf7w018ov6pftyegovgq,https://www.vara.ae/en/licenses-and-register/public-register/
 cmvvb4zqf00hdsopfwy9lj1b3,2026-10-30,,ESMA_MICA_NCA,EU,flagged,Smartbitboost,https://takame.io/en/changes/cmvvb4zqf00hdsopfwy9lj1b3,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
 cmvvb4zqd00hcsopfm6sdfeqe,2026-10-30,,ESMA_MICA_NCA,EU,flagged,Cardinemodevo,https://takame.io/en/changes/cmvvb4zqd00hcsopfm6sdfeqe,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
 cmvvb4zqb00hbsopft7oamtkw,2026-10-30,,ESMA_MICA_NCA,EU,flagged,Chainexelonfin,https://takame.io/en/changes/cmvvb4zqb00hbsopft7oamtkw,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
