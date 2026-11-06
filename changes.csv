@@ -1,4 +1,5 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmw5bkplh003t08jmsmxsycr3,2026-11-06,,SC_MY_WARNING,MY,flagged,,https://takame.io/en/changes/cmw5bkplh003t08jmsmxsycr3,https://www.sc.com.my/investor-alert-list
 cmw3vs9iw00qk3qpfuseuxtnx,2026-11-05,2026-07-31,AMF_FR,FR,added,"BASQUE PAY, S.L.",https://takame.io/en/changes/cmw3vs9iw00qk3qpfuseuxtnx,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmw3vs7m500hb3qpfie2sij9k,2026-11-05,,ESMA_MICA_NCA,EU,flagged,Renditanzia,https://takame.io/en/changes/cmw3vs7m500hb3qpfie2sij9k,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
 cmw3vs6r600c33qpf26a4mgja,2026-11-05,,ESMA_MICA,EU,removed,Firefish Europe s.r.o,https://takame.io/en/changes/cmw3vs6r600c33qpf26a4mgja,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
