@@ -1,4 +1,6 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmwwgl77300qn0jpfhtcy1kwz,2026-11-25,2026-11-20,AMF_FR,FR,added,TIWALA SOLUTIONS KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG,https://takame.io/en/changes/cmwwgl77300qn0jpfhtcy1kwz,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
+cmwwgl76x00qm0jpfphavg0mz,2026-11-25,2026-11-23,AMF_FR,FR,added,"PRAKMA MARKETS, S.L.",https://takame.io/en/changes/cmwwgl76x00qm0jpfphavg0mz,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmwtlx7sb05qleppfmxwsrcv2,2026-11-23,2024-12-11,AFSA_KZ,KZ,detail,,https://takame.io/en/changes/cmwtlx7sb05qleppfmxwsrcv2,https://publicreg.myafsa.com/licence_details/AFSA-G-LA-2024-0014/
 cmwtlx75605mveppfxwgsfnc8,2026-11-23,2026-07-31,AFM_NL_PASSPORT,NL,added,,https://takame.io/en/changes/cmwtlx75605mveppfxwgsfnc8,https://www.afm.nl/en/sector/registers/vergunningenregisters/cryptopartijen
 cmwtlx75405mueppfjjdkosaf,2026-11-23,2026-11-23,AFM_NL,NL,added,,https://takame.io/en/changes/cmwtlx75405mueppfjjdkosaf,https://www.afm.nl/en/sector/registers/vergunningenregisters/cryptopartijen
@@ -128,8 +130,8 @@ cmw9lqsxc052ojkpfe4nq3u1q,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/e
 cmw9lqsxb052njkpfsa29heo1,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsxb052njkpfsa29heo1,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsxa052mjkpfstvq2v1p,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsxa052mjkpfstvq2v1p,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsx8052ljkpfm9p3gxfe,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx8052ljkpfm9p3gxfe,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cmw9lqsx7052jjkpf4s9kw50d,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx7052jjkpf4s9kw50d,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsx7052kjkpfcbirxfc0,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx7052kjkpfcbirxfc0,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cmw9lqsx7052jjkpf4s9kw50d,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx7052jjkpf4s9kw50d,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsx6052ijkpfilkvti0r,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx6052ijkpfilkvti0r,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsx5052hjkpfwhqsl663,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx5052hjkpfwhqsl663,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsx4052gjkpf7wv6uwh0,2026-11-09,,FINTRAC_CA,CA,removed,,https://takame.io/en/changes/cmw9lqsx4052gjkpf7wv6uwh0,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
@@ -155,8 +157,8 @@ cmw9lqswi051xjkpf6c3i864i,2026-11-09,2026-10-28,FINTRAC_CA,CA,added,,https://tak
 cmw9lqswh051wjkpfvjn6bqj5,2026-11-09,2026-10-28,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswh051wjkpfvjn6bqj5,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswf051vjkpfwtnm1oha,2026-11-09,2026-10-28,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswf051vjkpfwtnm1oha,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswe051ujkpfginlvmo2,2026-11-09,2026-10-28,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswe051ujkpfginlvmo2,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cmw9lqswd051sjkpfkt65org4,2026-11-09,2026-11-02,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswd051sjkpfkt65org4,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswd051tjkpfufjbo9b5,2026-11-09,2026-11-02,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswd051tjkpfufjbo9b5,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cmw9lqswd051sjkpfkt65org4,2026-11-09,2026-11-02,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswd051sjkpfkt65org4,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswc051rjkpf947o5cdn,2026-11-09,2026-11-02,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswc051rjkpf947o5cdn,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswb051qjkpfimx6btoh,2026-11-09,2026-11-02,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswb051qjkpfimx6btoh,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqswa051pjkpfa3za8vkn,2026-11-09,2026-10-30,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqswa051pjkpfa3za8vkn,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
@@ -180,8 +182,8 @@ cmw9lqsvs0518jkpfn6s6mkie,2026-11-09,2026-10-27,FINTRAC_CA,CA,added,,https://tak
 cmw9lqsvr0517jkpfqa2x3iw7,2026-11-09,2026-10-14,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvr0517jkpfqa2x3iw7,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvq0516jkpfqshens59,2026-11-09,2026-10-27,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvq0516jkpfqshens59,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvp0515jkpf96n5a2zi,2026-11-09,2026-10-27,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvp0515jkpf96n5a2zi,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
-cmw9lqsvn0513jkpfunpp8yz6,2026-11-09,2026-10-22,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvn0513jkpfunpp8yz6,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvo0514jkpffuog8ene,2026-11-09,2026-10-29,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvo0514jkpffuog8ene,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
+cmw9lqsvn0513jkpfunpp8yz6,2026-11-09,2026-10-22,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvn0513jkpfunpp8yz6,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvm0512jkpfbszfevvh,2026-11-09,2026-10-29,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvm0512jkpfbszfevvh,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvl0511jkpfkt08ycet,2026-11-09,2026-10-26,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvl0511jkpfkt08ycet,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
 cmw9lqsvk0510jkpfjd4vvts7,2026-11-09,2026-10-27,FINTRAC_CA,CA,added,,https://takame.io/en/changes/cmw9lqsvk0510jkpfjd4vvts7,https://fintrac-canafe.canada.ca/msb-esm/msb-report-eng
