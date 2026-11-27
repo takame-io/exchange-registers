@@ -1,4 +1,11 @@
 change_id,observed_date,effective_date,registry,jurisdiction,kind,entity_name,permalink,source_url
+cmwzbgu3800hm81pf4ztss41e,2026-11-27,,ESMA_MICA_NCA,EU,flagged,Maturesorio,https://takame.io/en/changes/cmwzbgu3800hm81pf4ztss41e,https://www.esma.europa.eu/sites/default/files/2024-12/NCASP.csv
+cmwzbgt3d00bl81pf528lih9w,2026-11-27,2026-11-23,ESMA_MICA,EU,added,Altery Connect EU B.V.,https://takame.io/en/changes/cmwzbgt3d00bl81pf528lih9w,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmwzbgt3b00bk81pf4pkq6qy7,2026-11-27,2026-11-20,ESMA_MICA,EU,added,"VENGA EUROPE, S.L.",https://takame.io/en/changes/cmwzbgt3b00bk81pf4pkq6qy7,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmwzbgt3900bj81pf8k3ei1xe,2026-11-27,2026-11-25,ESMA_MICA,EU,added,VR-Bank Ismaning Hallbergmoos Neufahrn eG,https://takame.io/en/changes/cmwzbgt3900bj81pf8k3ei1xe,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmwzbgt3700bi81pf0ykvmqrl,2026-11-27,2026-11-24,ESMA_MICA,EU,added,Volksbank Plochingen eG,https://takame.io/en/changes/cmwzbgt3700bi81pf0ykvmqrl,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmwzbgt3500bh81pfjccm3wn9,2026-11-27,2026-11-12,ESMA_MICA,EU,added,Volksbank Vechta eG,https://takame.io/en/changes/cmwzbgt3500bh81pfjccm3wn9,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
+cmwzbgt2w00bg81pfmoz5btq5,2026-11-27,2026-11-18,ESMA_MICA,EU,added,meine Volksbank Raiffeisenbank eG,https://takame.io/en/changes/cmwzbgt2w00bg81pfmoz5btq5,https://www.esma.europa.eu/sites/default/files/2024-12/CASPS.csv
 cmwxw17qc00ql4dpfdecskbra,2026-11-26,,AMF_FR,FR,removed,TIWALA SOLUTIONS KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG,https://takame.io/en/changes/cmwxw17qc00ql4dpfdecskbra,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmwxw17q900qk4dpfskyf6p4t,2026-11-26,,AMF_FR,FR,removed,"PRAKMA MARKETS, S.L.",https://takame.io/en/changes/cmwxw17q900qk4dpfskyf6p4t,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
 cmwwgl77300qn0jpfhtcy1kwz,2026-11-25,2026-11-20,AMF_FR,FR,added,TIWALA SOLUTIONS KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG,https://takame.io/en/changes/cmwwgl77300qn0jpfhtcy1kwz,https://www.data.gouv.fr/datasets/liste-blanche-des-prestataires-de-services-sur-actifs-numeriques-psan
